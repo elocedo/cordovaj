@@ -1,0 +1,2 @@
+# cordovaj
+Cordova Jquery Mobile
